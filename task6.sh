@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 #Let user to enter the program and CPU or Memory to monitor
 print_select_program_menu() {

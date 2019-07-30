@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 #get user selection and apply to function
 read_user_selection() {

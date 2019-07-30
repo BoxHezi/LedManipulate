@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 #get all name of led devices in the leds directory
 get_led_device_list() {

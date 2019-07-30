@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 #kill back ground process
 kill_background_process() {

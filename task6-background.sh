@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 #monitoring led with selected process and CPU/Memory
 monitor_process() {

@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/usr/bin/bash
 
-#check if uesr using sudo or not
+#check if user using sudo or not
 check_permission() {
     if [[ $EUID -ne 0  ]]
     then

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 #get available event
 get_led_system_event() {

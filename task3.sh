@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 #print option for each led device
 print_option() {
